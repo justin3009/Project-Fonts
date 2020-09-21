@@ -11,5 +11,5 @@ Houses the "Schala Project" font and variations. The original was created by Viv
 5. Schala Project Font (6x6)
 6. Schala Project Font (6x8)
 7. Schala Project Font (Emphasized 8x8)
-8. Schala Project Font (8x8) (Expanded by [Solren])
+8. Schala Project Font (8x8) (Expanded by "Solren")
 9. Schala Project Font (8x12 Bolder)
